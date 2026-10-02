@@ -1,0 +1,12 @@
+D:\0ct\B2\external_imgui\src\main.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\main.obj
+D:\0ct\B2\external_imgui\src\settings.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\settings.obj
+D:\0ct\B2\external_imgui\src\game_memory.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\game_memory.obj
+D:\0ct\B2\external_imgui\src\combat.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\combat.obj
+D:\0ct\B2\external_imgui\src\overlay.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\overlay.obj
+D:\0ct\B2\external_imgui\third_party\imgui\imgui.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\imgui.obj
+D:\0ct\B2\external_imgui\third_party\imgui\imgui_demo.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\imgui_demo.obj
+D:\0ct\B2\external_imgui\third_party\imgui\imgui_draw.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\imgui_draw.obj
+D:\0ct\B2\external_imgui\third_party\imgui\imgui_tables.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\imgui_tables.obj
+D:\0ct\B2\external_imgui\third_party\imgui\imgui_widgets.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\imgui_widgets.obj
+D:\0ct\B2\external_imgui\third_party\imgui\backends\imgui_impl_win32.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\imgui_impl_win32.obj
+D:\0ct\B2\external_imgui\third_party\imgui\backends\imgui_impl_dx11.cpp;D:\0ct\B2\external_imgui\build\PRBF2_ExternalToolkit.dir\Release\imgui_impl_dx11.obj
